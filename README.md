@@ -115,6 +115,8 @@ This Power BI dashboard provides a comprehensive analysis of the job market in E
 │   │-- page1_overview.png
 │   │-- page2_roles.png
 │   │-- page3_company.png
+│   │-- details_page.png
+
 │-- README.md
 ```
 
