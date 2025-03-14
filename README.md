@@ -109,7 +109,7 @@ This Power BI dashboard provides a comprehensive analysis of the job market in E
 │-- 📁 data
 │   │-- wuzzuf_jobs_cleaned.csv
 │   │-- salaries_table.csv
-│-- 📁 reports
+│-- 📁 report
 │   │-- wuzzuf_jobs_dashboard.pbix
 │-- 📁 images
 │   │-- page1_overview.png
